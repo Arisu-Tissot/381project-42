@@ -6,7 +6,7 @@
 - **Students’ Names and SIDs:**
   - Li Ka Chun (SID: 13698042)
   - Yip Chi Shing (SID: 13143800)
-  - 13697997
+  - Wong Chi Pan (SID:13697997)
   - 13728710
 
 # Project file intro
